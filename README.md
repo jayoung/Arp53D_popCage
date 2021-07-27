@@ -12,7 +12,7 @@ Courtney M Schroeder, Sarah A Tomlin, Isabel Mejia Natividad, John R Valenzuela,
 Division of Basic Sciences & Howard Hughes Medical Institute, Fred Hutchinson Cancer Research Center, Seattle,
 United States
 
-*in press, eLife*, 2021
+eLife 2021;10:e71279 https://elifesciences.org/articles/71279
 
 
 ## Files:
