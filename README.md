@@ -1,9 +1,20 @@
 # Arp53D_popCage
 population cage modelling for Schroeder et al, 2021
-
 See manuscript for full details.
 
-## Files
+## Citation:
+
+An actin-related protein that is most highly expressed in Drosophila testes is critical for embryonic development
+
+Courtney M Schroeder, Sarah A Tomlin, Isabel Mejia Natividad, John R Valenzuela, Janet M Young, Harmit S Malik
+
+Division of Basic Sciences & Howard Hughes Medical Institute, Fred Hutchinson Cancer Research Center, Seattle,
+United States
+
+eLife 2021;10:e71279 https://elifesciences.org/articles/71279
+
+
+## Files:
 
 `Arp53D_populationCage_functions.R`  contains all the functions that we'll use for modelling
 
@@ -11,11 +22,11 @@ See manuscript for full details.
 
 `Arp53D_populationCage_plotModellingResults.R` makes the plots we're showing in the paper.
 
-## Other resources
+## Other resources:
 
 This nice [web tool](https://www.radford.edu/~rsheehy/Gen_flash/popgen/) by Bob Sheehy (Radford University, Virginia) can also perform fitness modelling. We used it to cross-check some of our results.
 
-## Methods (from the paper)
+## Methods (from the paper):
 
 ### Population cage setup
 The isogenized Arp53D-KO line in the w1118 background was used due to ease of DsRed detection
